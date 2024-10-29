@@ -8,8 +8,8 @@ but I have no idea what C-Quests we have yet!
     - Quest01
     - ...
     - Quest`iHaveNoIdeaHowManyQuestsWeHave`
-  - Pytnon
-  - Fluttet
+  - Python
+  - Flutter
   - Exploration
  
 ---
