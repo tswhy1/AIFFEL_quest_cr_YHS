@@ -1,17 +1,85 @@
 # AIFFEL_quest_cr
 The very first project I submitted in this AIFFEL course ...
-but I have no idea what C-Quests we have yet!
+but I have no confidence if I correctly understood the instruction
 
 ## Repository Tree
-- AIFFEL_quest_cr
-  - MainQuest
-    - Quest01
-    - ...
-    - Quest`iHaveNoIdeaHowManyQuestsWeHave`
-  - Python
-  - Flutter
-  - Exploration
- 
+- **AIFFEL_quest_cr**
+  - **MainQuest**
+    - **Quest01**
+	    - Untitle.ipynb
+	    - README.md
+    - **Quest02**
+	    - Untitle.ipynb
+	    - README.md
+    - **Quest03**
+	    - Untitle.ipynb
+	    - README.md
+    - **Quest04**
+	    - Untitle.ipynb
+	    - README.md
+    - **Quest05**
+	    - Untitle.ipynb
+	    - README.md
+    - **Quest06**
+	    - Untitle.ipynb
+	    - README.md
+    - **Quest07**
+	    - Untitle.ipynb
+	    - README.md
+    - **Quest08**
+	    - Untitle.ipynb
+	    - README.md
+  - **Python**
+	  - SubQuest01
+	    - Untitle.ipynb
+	    - README.md
+	  - SubQuest02
+	    - Untitle.ipynb
+	    - README.md
+	  - SubQuest03
+	    - Untitle.ipynb
+	    - README.md
+	  - SubQuest04
+	    - Untitle.ipynb
+	    - README.md
+  - **Flutter**
+	  - SubQuest11
+	    - Untitle.ipynb
+	    - README.md
+	  - SubQuest12
+	    - Untitle.ipynb
+	    - README.md
+	  - SubQuest13
+	    - Untitle.ipynb
+	    - README.md
+	  - SubQuest14
+	    - Untitle.ipynb
+	    - README.md
+	  - SubQuest15
+	    - Untitle.ipynb
+	    - README.md
+  - **Exploration**
+	  - SubQuest22
+	    - Untitle.ipynb
+	    - README.md
+	  - SubQuest23
+	    - Untitle.ipynb
+	    - README.md
+	  - SubQuest24
+	    - Untitle.ipynb
+	    - README.md
+	  - SubQuest25
+	    - Untitle.ipynb
+	    - README.md
+	  - SubQuest26
+	    - Untitle.ipynb
+	    - README.md
+	  - SubQuest27
+	    - Untitle.ipynb
+	    - README.md
+	  - SubQuest28
+	    - Untitle.ipynb
+	    - README.md
 ---
 
 Using git with CLI is a totally different experience than using it with GUI lol
