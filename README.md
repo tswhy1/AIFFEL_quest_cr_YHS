@@ -6,8 +6,13 @@ but I have no idea what C-Quests we have yet!
 - AIFFEL_quest_cr
   - MainQuest
     - Quest01
-    - ...
-    - Quest`iHaveNoIdeaHowManyQuestsWeHave`
+    - Quest02
+    - Quest03
+    - Quest04
+    - Quest05
+    - Quest06
+    - Quest07
+    - Quest08
   - Python
   - Flutter
   - Exploration
